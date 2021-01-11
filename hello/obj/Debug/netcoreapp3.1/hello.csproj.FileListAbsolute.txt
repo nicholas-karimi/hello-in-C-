@@ -1,0 +1,13 @@
+/home/nicholas/Desktop/hello-in-C-/hello/bin/Debug/netcoreapp3.1/hello
+/home/nicholas/Desktop/hello-in-C-/hello/bin/Debug/netcoreapp3.1/hello.deps.json
+/home/nicholas/Desktop/hello-in-C-/hello/bin/Debug/netcoreapp3.1/hello.runtimeconfig.json
+/home/nicholas/Desktop/hello-in-C-/hello/bin/Debug/netcoreapp3.1/hello.runtimeconfig.dev.json
+/home/nicholas/Desktop/hello-in-C-/hello/bin/Debug/netcoreapp3.1/hello.dll
+/home/nicholas/Desktop/hello-in-C-/hello/bin/Debug/netcoreapp3.1/hello.pdb
+/home/nicholas/Desktop/hello-in-C-/hello/obj/Debug/netcoreapp3.1/hello.csprojAssemblyReference.cache
+/home/nicholas/Desktop/hello-in-C-/hello/obj/Debug/netcoreapp3.1/hello.AssemblyInfoInputs.cache
+/home/nicholas/Desktop/hello-in-C-/hello/obj/Debug/netcoreapp3.1/hello.AssemblyInfo.cs
+/home/nicholas/Desktop/hello-in-C-/hello/obj/Debug/netcoreapp3.1/hello.csproj.CoreCompileInputs.cache
+/home/nicholas/Desktop/hello-in-C-/hello/obj/Debug/netcoreapp3.1/hello.dll
+/home/nicholas/Desktop/hello-in-C-/hello/obj/Debug/netcoreapp3.1/hello.pdb
+/home/nicholas/Desktop/hello-in-C-/hello/obj/Debug/netcoreapp3.1/hello.genruntimeconfig.cache
